@@ -15,7 +15,11 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+I am a graduate student in Computer Science and Engineering at The Ohio State University, specializing in biomedical imaging, computer vision, and machine learning. My research focuses on developing and applying deep learning methods for medical imaging, with particular emphasis on image segmentation and object detection for healthcare applications.
 
+Currently, I conduct research in Dr. Wei-Lun (Harry) Chao's Machine Learning Laboratory, focusing on Imageomics and medical imaging. In parallel, I am pursuing thesis research under Dr. Golrokh Mirzaei, working on advanced neuroimaging techniques and their applications to neurological disease studies. Beyond imaging, I also have experience in natural language processing (NLP), applying machine learning techniques to interdisciplinary projects.
+
+I am passionate about using artificial intelligence to address real-world healthcare challenges, with particular interest in medical diagnostics, imaging-based disease characterization, and predictive modeling for clinical decision-making.
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
