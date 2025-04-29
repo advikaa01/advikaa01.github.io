@@ -3,7 +3,7 @@ layout: page
 title: NSFW Detection in Videos
 description: Real-time inappropriate content detection in videos using deep learning.
 img: 
-importance: 4
+importance: 7
 category: projects
 related_publications: false
 ---

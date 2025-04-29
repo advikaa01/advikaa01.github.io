@@ -103,13 +103,13 @@
         - Integrated OpenCV and PyTorch for real-time object tracking.
 
     - title: BIBLIOTECH - Library Management System
-      year: June 2024-July 2024
+      year: Jun 2024-Jul 2024
       description:
         - Created a library management system accessible by both librarians and readers.
         - Developed using Vue.js CLI, Flask, RESTful APIs, and SQLAlchemy.
 
     - title: NSFW Detection in Videos
-      year: June 2023-Aug 2023
+      year: Jun 2023-Aug 2023
       description:
         - Built a real-time system for detecting and filtering inappropriate content in videos using YOLO, LabelImg, and Audio Recognition.
 

@@ -3,7 +3,7 @@ layout: page
 title: ACCIVISION – AI Accident Detection System
 description: AI-powered accident detection using computer vision and optimization.
 img: 
-importance: 1
+importance: 4
 category: projects
 related_publications: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Detection of Gravitational Wave Glitches
 description: Machine learning model for classifying gravitational wave glitches.
 img: 
-importance: 1
+importance: 2
 category: projects
 related_publications: true
 ---

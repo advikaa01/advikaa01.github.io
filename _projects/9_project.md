@@ -3,7 +3,7 @@ layout: page
 title: NLP Research Project – Long-Range Context Modeling Analysis
 description: Research project analyzing long-range context modeling in NLP using Transformer-based models and XLSTMs.
 img: 
-importance: 1
+importance: 3
 category: projects
 related_publications: false
 ---

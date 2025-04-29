@@ -3,7 +3,7 @@ layout: page
 title: BIBLIOTECH – Library Management System
 description: A library system using Vue.js, Flask, and SQLAlchemy.
 img: 
-importance: 1
+importance: 5
 category: projects
 related_publications: false
 ---

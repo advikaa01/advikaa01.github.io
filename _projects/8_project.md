@@ -3,7 +3,7 @@ layout: page
 title: Capstone Project – RK Supermarket
 description: Business analysis and strategy consulting project.
 img: 
-importance: 4
+importance: 9
 category: projects
 related_publications: false
 ---

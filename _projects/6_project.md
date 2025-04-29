@@ -3,7 +3,7 @@ layout: page
 title: IZIVOT – Hospital Management System
 description: iOS-based hospital management platform.
 img: 
-importance: 4
+importance: 6
 category: projects
 related_publications: false
 ---

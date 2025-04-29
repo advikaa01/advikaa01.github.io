@@ -3,7 +3,7 @@ layout: page
 title: Pneumonia Detection Using X-Ray Images
 description: CNN-based model for pneumonia detection.
 img: 
-importance: 4
+importance: 8
 category: projects
 related_publications: false
 ---
