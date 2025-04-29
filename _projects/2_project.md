@@ -5,7 +5,7 @@ description: Machine learning model for classifying gravitational wave glitches.
 img: 
 importance: 2
 category: projects
-related_publications: true
+related_publications: false
 ---
 
 **Project Duration:** Oct 2023 – Jan 2024

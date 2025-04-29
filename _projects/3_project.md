@@ -5,11 +5,11 @@ description: AI-powered accident detection using computer vision and optimizatio
 img: 
 importance: 4
 category: projects
-related_publications: true
+related_publications: false
 ---
 
 **Project Duration:** Dec 2023 – May 2024
 
 **Description:**  
 Developed an AI-powered accident detection system analyzing real-time CCTV footage.  
-Accepted IEEE research paper based on this project. Integrated OpenCV and PyTorch for enhanced detection speed and object tracking.
+Integrated OpenCV and PyTorch for enhanced detection speed and object tracking.
