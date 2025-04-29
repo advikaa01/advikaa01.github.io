@@ -302,7 +302,7 @@ You can create a people page if you want to feature more than one person. Each p
 [![People Preview](readme_preview/people.png)](https://alshedivat.github.io/al-folio/people/)
 
 ---
-
+ 
 ### Publications
 
 Your publications' page is generated automatically from your BibTex bibliography. Simply edit [\_bibliography/papers.bib](_bibliography/papers.bib). You can also add new `*.bib` files and customize the look of your publications however you like by editing [\_pages/publications.md](_pages/publications.md). By default, the publications will be sorted by year and the most recent will be displayed first. You can change this behavior and more in the `Jekyll Scholar` section in [\_config.yml](_config.yml) file.
