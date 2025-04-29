@@ -46,13 +46,13 @@
         - Conducting master's thesis research at Dr. Golrokh Mirzaei's Laboratory, focusing on advanced neuroimaging techniques and neuroscience applications.
     - title: NLP Research Project - Long-Range Context Modeling Analysis
       institution: The Ohio State University
-      year: Feb 2025-April 2025
+      year: Feb 2025-Apr 2025
       description:
         - Investigated models' ability to capture long-range context in NLP via next-token prediction and question answering.
         - Compared performance between Transformer-based models and XLSTMs on extended sequence inputs.
     - title: Apple iOS Bootcamp Mentor
       institution: Apple & Infosys Funded Program at SRM IST
-      year: Oct 2023 - Mar 2024
+      year: 2023 - 2024
       description:
         - Mentored students on iOS app development using Swift and ML integration.
         - Conducted workshops on UX design, soft skills, business acumen, and professional communication.
@@ -72,12 +72,12 @@
   contents:
     - title: Research Intern
       institution: SPARTIFICIAL, India
-      year: Oct 2023 - Jan 2024
+      year: Oct 2023-Jan 2024
       description:
         - Developed an AI model to classify gravitational wave glitches (Inception v3, ResNet, DenseNet), contributing to computational astrophysics research.
     - title: iOS Intern
       institution: INFOSYS, India
-      year: Apr 2023 - May 2023
+      year: Apr 2023-May 2023
       description:
         - Created a hospital management application using iOS-centric technologies.
 
@@ -85,41 +85,41 @@
   type: time_table
   contents:
     - title: BEAM - Mental Wellbeing App
-      year: Jan 2023 - Dec 2023
+      year: Jan 2023-Dec 2023
       description:
         - Developed an iOS application focused on mental wellbeing, utilizing Swift, CreateML, and UIKit.
         - Prototype presented to Apple Senior Leadership Team at Cupertino.
 
     - title: Detection of Gravitational Wave Glitches
-      year: Oct 2023 - Jan 2024
+      year: Oct 2023-Jan 2024
       description:
         - Applied predictive ML models (Inception v3, ResNet, DenseNet) for classifying gravitational wave glitches.
 
     - title: ACCIVISION - AI Accident Detection System
-      year: Dec 2023 - May 2024
+      year: Dec 2023-May 2024
       description:
         - Developed an AI-powered accident detection system using computer vision and optimization algorithms.
         - IEEE research paper accepted for this work.
         - Integrated OpenCV and PyTorch for real-time object tracking.
 
     - title: BIBLIOTECH - Library Management System
-      year: June 2024 - July 2024
+      year: June 2024-July 2024
       description:
         - Created a library management system accessible by both librarians and readers.
         - Developed using Vue.js CLI, Flask, RESTful APIs, and SQLAlchemy.
 
     - title: NSFW Detection in Videos
-      year: June 2023 - Aug 2023
+      year: June 2023-Aug 2023
       description:
         - Built a real-time system for detecting and filtering inappropriate content in videos using YOLO, LabelImg, and Audio Recognition.
 
     - title: IZIVOT - Hospital Management System
-      year: Apr 2023 - May 2023
+      year: Apr 2023-May 2023
       description:
         - Developed a hospital management system for iOS with distinct interfaces for Admin, Patient, and Doctor.
 
     - title: Pneumonia Detection Using X-Ray Images
-      year: Mar 2023 - Apr 2023
+      year: Mar 2023-Apr 2023
       description:
         - Designed a deep learning system for detecting pneumonia from X-Ray images using CNNs.
 
