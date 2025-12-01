@@ -42,14 +42,13 @@
       year: 2024-Present
       description:
         - Conducting research in Dr. Wei-Lun (Harry) Chao's Machine Learning Laboratory, focusing on Imageomics and Medical Imaging.
-        - Co-author of a research paper submitted to CVPR 2025 and ICCV 2025, contributing to top-tier AI research venues.
-        - Conducting master's thesis research at Dr. Golrokh Mirzaei's Laboratory, focusing on advanced neuroimaging techniques and neuroscience applications.
+        - Leading a segmentation research team focused on fine-tuning transformer-based models (e.g., MaskDINO, SAM2) for robust performance on sparse and noisy medical imaging datasets.
     - title: NLP Research Project - Long-Range Context Modeling Analysis
       institution: The Ohio State University
       year: Feb 2025-Apr 2025
       description:
         - Investigated models' ability to capture long-range context in NLP via next-token prediction and question answering.
-        - Compared performance between Transformer-based models and XLSTMs on extended sequence inputs.
+        - Evaluated performance between Transformer-based models and XLSTMs on extended sequence inputs.
     - title: Apple iOS Bootcamp Mentor
       institution: Apple & Infosys Funded Program at SRM IST
       year: 2023 - 2024
@@ -84,6 +83,12 @@
 - title: Significant Projects
   type: time_table
   contents:
+    - title: OutReachGPT
+        year: May 2025
+        description:
+          - A tool leveraging LangChain and Meta's Llama 3.3 70B model via Groq API to extract roles and generate personalized cold emails based on job description scraped from URLs and user’s resume.
+          - Technologies: Python, Streamlit, Llama 3.3, LangChain, Groq API, Dotenv, Chroma DB
+
     - title: BEAM - Mental Wellbeing App
       year: Jan 2023-Dec 2023
       description:

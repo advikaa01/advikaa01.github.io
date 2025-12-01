@@ -26,7 +26,7 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-# Actively seeking PhD Positions for Fall 2026
+**Actively seeking PhD Positions for Fall 2026!**
 
 I am a graduate student in Computer Science and Engineering at The Ohio State University, specializing in biomedical imaging, computer vision, and machine learning. My research focuses on developing and applying deep learning methods for medical imaging, with particular emphasis on image segmentation and object detection for healthcare applications.
 
