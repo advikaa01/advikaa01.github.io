@@ -84,10 +84,10 @@
   type: time_table
   contents:
     - title: OutReachGPT
-        year: May 2025
-        description:
-          - A tool leveraging LangChain and Meta's Llama 3.3 70B model via Groq API to extract roles and generate personalized cold emails based on job description scraped from URLs and user’s resume.
-          - Technologies: Python, Streamlit, Llama 3.3, LangChain, Groq API, Dotenv, Chroma DB
+      year: May 2025
+      description:
+        - A tool leveraging LangChain and Meta's Llama 3.3 70B model via Groq API to extract roles and generate personalized cold emails based on job description scraped from URLs and user’s resume.
+        - Technologies include Python, Streamlit, Llama 3.3, LangChain, Groq API, Dotenv, Chroma DB
 
     - title: BEAM - Mental Wellbeing App
       year: Jan 2023-Dec 2023
